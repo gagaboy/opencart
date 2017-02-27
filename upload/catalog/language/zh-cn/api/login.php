@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_success'] = '成功：API Session 启用成功！';
+$_['text_success'] = '成功：API会话启动成功！';
 
 // Error
-$_['error_key']  = '警告：API Key 不正确!';
-$_['error_ip']   = '警告：您的 IP %s 并没有被允许使用此 API!';
+$_['error_key']  = '警告：不正确的API 秘钥！';
+$_['error_ip']   = '警告：您的IP %s 不允许访问 API!';

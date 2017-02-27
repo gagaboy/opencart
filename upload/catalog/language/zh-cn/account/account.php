@@ -1,22 +1,20 @@
 <?php
-// Heading 
-$_['heading_title']      = '我的帐号';
+// Heading
+$_['heading_title']      = '我的账户';
 
 // Text
-$_['text_account']       = '我的帐号';
-$_['text_my_account']    = '我的帐号';
+$_['text_account']       = '我的账户';
+$_['text_my_account']    = '我的账户';
 $_['text_my_orders']     = '我的订单';
 $_['text_my_newsletter'] = '我的订阅';
-$_['text_edit']          = '我的帐号讯息';
-$_['text_password']      = '我的密码';
-$_['text_address']       = '地址簿';
-$_['text_credit_card']   = '管理信用卡';
-$_['text_wishlist']      = '收藏清单';
-$_['text_order']         = '历史订单';
+$_['text_edit']          = '编辑我的账户信息';
+$_['text_password']      = '修改我的密码';
+$_['text_address']       = '修改我的收货地址';
+$_['text_wishlist']      = '修改我的收藏列表';
+$_['text_order']         = '查看我的历史订单';
 $_['text_download']      = '下载商品';
-$_['text_reward']        = '奖励积点'; 
-$_['text_return']        = '商品退换'; 
-$_['text_transaction']   = '交易记录'; 
-$_['text_newsletter']    = '电子报';
+$_['text_reward']        = '我的积分';
+$_['text_return']        = '查看我的退换要求';
+$_['text_newsletter']    = '订阅 / 退订咨询';
 $_['text_recurring']     = '分期付款';
-$_['text_transactions']  = '交易记录';
+$_['text_transaction']   = '我的余额';

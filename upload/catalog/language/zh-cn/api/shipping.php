@@ -1,18 +1,18 @@
 <?php
 // Text
-$_['text_address']       = '成功：运送地址已设定！';
-$_['text_method']        = '成功：运送方式已设定！';
+$_['text_address']       = '成功：配送地址已设置！';
+$_['text_method']        = '成功：配送方式已设置！';
 
 // Error
-$_['error_permission']   = '警告：您没有权限使用此 API !';
-$_['error_firstname']    = '名字必须在 1 到 32 个字之间！';
-$_['error_lastname']     = '姓氏必须在 1 到 32 个字之间！';
-$_['error_address_1']    = '地址1必须是 3 到 128 个字之间！';
-$_['error_city']         = '乡镇市区必须是 3 到 128 个字之间！';
-$_['error_postcode']     = '邮递区号必须是 2 到 10 个字之间！';
+$_['error_permission']   = '警告：您没有权限访问该 API！';
+$_['error_firstname']    = '名字必须在 1 至 32 个字符之间！';
+$_['error_lastname']     = '姓氏必须在 1 至 32 个字符之间！';
+$_['error_address_1']    = '地址1必须是 3 至 128 字符之间！';
+$_['error_city']         = '城市必须是 3 至 128 字符之间！';
+$_['error_postcode']     = '邮政编码必须是 2 至 10 个字符！';
 $_['error_country']      = '请选择一个国家！';
-$_['error_zone']         = '请选择一个县市/地区！';
-$_['error_custom_field'] = '%s 必须填写！';
-$_['error_address']      = '警告：运送地址必须填写！';
-$_['error_method']       = '警告：运送方式必须填写！';
-$_['error_no_shipping']  = '警告：没有运送选项！';
+$_['error_zone']         = '请选择一个地区/省份！';
+$_['error_custom_field'] = '%s 必填！';
+$_['error_address']      = '警告：需要配送地址！';
+$_['error_method']       = '警告：配送方式需要！';
+$_['error_no_shipping']  = '警告：没有配送选项！';

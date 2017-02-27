@@ -1,17 +1,17 @@
 <?php
 // header
-$_['heading_title']  = '重设密码';
+$_['heading_title']  = '重置你的密码';
 
 // Text
-$_['text_account']   = '帐号';
-$_['text_password']  = '输入新密码';
-$_['text_success']   = '成功: 您的帐号密码已更新。';
+$_['text_account']   = '账户';
+$_['text_password']  = '输入你的新密码.';
+$_['text_success']   = '你的密码已成功修改.';
 
 // Entry
 $_['entry_password'] = '密码';
-$_['entry_confirm']  = '确认密码';
+$_['entry_confirm']  = '确认';
 
 // Error
-$_['error_password'] = '密码长度必须是 4 到 20 个字!';
-$_['error_confirm']  = '密码与确认密码不相符!';
-$_['error_code']     = '密码重设码无效或已使用过!';
+$_['error_password'] = '密码必须在4-20个之间!';
+$_['error_confirm']  = '密码和确认密码不匹配!';
+$_['error_code']     = '密码重置代码是无效的!';

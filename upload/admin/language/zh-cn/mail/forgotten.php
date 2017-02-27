@@ -1,6 +1,6 @@
 <?php
 // Text
-$_['text_subject']  = '%s - 密码重设请求';
-$_['text_greeting'] = '%s 管理员已要求一组新的密码.';
-$_['text_change']   = '要重设密码请点击下方连结：';
-$_['text_ip']       = '要求重设密码的IP： %s';
+$_['text_subject']  = '%s - 密码重置请求';
+$_['text_greeting'] = '一个新的管理员密码%s.';
+$_['text_change']   = '要重设密码点击以下链接';
+$_['text_ip']       = 'IP的使用需要这个请求： %s';

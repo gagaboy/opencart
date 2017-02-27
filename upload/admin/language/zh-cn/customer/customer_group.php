@@ -1,30 +1,31 @@
 <?php
+
 // Heading
-$_['heading_title']     = '客户群组';
+$_['heading_title']     = '客户组';
 
 // Text
-$_['text_success']      = '成功: 您已修改客户群组!';
-$_['text_list']         = '客户群组清单';
-$_['text_add']          = '新增客户群组';
-$_['text_edit']         = '编辑客户群组';
+$_['text_success']      = '成功: 已修改客户组！';
+$_['text_list']         = '客户组列表';
+$_['text_add']          = '添加客户组';
+$_['text_edit']         = '编辑客户组';
 
 // Column
-$_['column_name']       = '客户群组名称';
+$_['column_name']       = '客户组名称';
 $_['column_sort_order'] = '排序';
-$_['column_action']     = '管理';
+$_['column_action']     = '操作';
 
 // Entry
-$_['entry_name']        = '客户群组名称';
-$_['entry_description'] = '客户群组描述';
-$_['entry_approval']    = '新客户审核';
+$_['entry_name']        = '客户组名称';
+$_['entry_description'] = '描述';
+$_['entry_approval']    = '审核新客户';
 $_['entry_sort_order']  = '排序';
 
 // Help
-$_['help_approval']     = '客户必须先经管理者审核后才能进行登录。';
+$_['help_approval']     = '登陆前必须经管理员审核通过。';
 
 // Error
-$_['error_permission']   = '警告: 您没有权限修改客户群组!';
-$_['error_name']         = '客户群组名称必须在3到32个字之间!';
-$_['error_default']      = '警告: 此客户群组不得删除，因为它是商店预设的客户群组!';
-$_['error_store']        = '警告: 此客户群组不得删除，因为它目前已有 %s 个商店使用中!';
-$_['error_customer']     = '警告: 此客户群组不得删除，因为它目前已有 %s 个客户使用中!';
+$_['error_permission']   = '警告: 无权限修改客户组！';
+$_['error_name']         = '客户组名称必须为 3 至 32 字符！';
+$_['error_default']      = '警告: 不能删除此客户组，该客户组已被关联为商店默认客户组！';
+$_['error_store']        = '警告: 不能删除此客户组，该客户组已被关联到 %s 个商店！';
+$_['error_customer']     = '警告: 不能删除此客户组，该客户组已被关联 %s 个客户！';
